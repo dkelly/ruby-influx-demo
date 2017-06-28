@@ -1,3 +1,6 @@
+# before running the first time:
+#   $ bundle install
+#
 # run with:
 #   $ bundle exec ruby test.rb
 
