@@ -1,0 +1,26 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    as-duration (0.1.1)
+    cause (0.1)
+    faker (1.7.3)
+      i18n (~> 0.5)
+    i18n (0.8.4)
+    influxdb (0.3.14)
+      cause
+      json
+    json (2.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  as-duration
+  faker
+  influxdb
+
+RUBY VERSION
+   ruby 2.3.3p222
+
+BUNDLED WITH
+   1.15.1
